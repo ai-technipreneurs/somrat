@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "Somrat | Hugo Portfolio Template"
+baseURL = "https://adoring-minsky-3850f9.netlify.app/h"
+title = "Technipreneurs.AI"
 theme = "somrat"
 # post pagination
 paginate = "6"
