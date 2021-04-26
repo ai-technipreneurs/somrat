@@ -134,6 +134,12 @@ pre = "#"
 url = "portfolio"
 weight = 3
 
+[[Languages.en.menu.main]]
+name = "Trainings"
+pre = "#"
+url = "trainings"
+weight = 4
+
 # [[Languages.en.menu.main]]
 # name = "Testimonial"
 # pre = "#"
@@ -144,12 +150,12 @@ weight = 3
 name = "Contact"
 pre = "#"
 url = "contact"
-weight = 4
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "Blog"
 url = "blog"
-weight = 5
+weight = 6
 
 
 ################################### French language #####################################
@@ -189,6 +195,12 @@ pre = "#"
 url = "portefeuille"
 weight = 3
 
+[[Languages.fr.menu.main]]
+name = "Formations"
+pre = "#"
+url = "formations"
+weight = 4
+
 #[[Languages.fr.menu.main]]
 #name = "Testimonial"
 #pre = "#"
@@ -199,4 +211,4 @@ weight = 3
 name = "Contact"
 pre = "#"
 url = "contact"
-weight = 4
+weight = 5
