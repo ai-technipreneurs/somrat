@@ -135,9 +135,9 @@ url = "portfolio"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Trainings"
+name = "Training"
 pre = "#"
-url = "trainings"
+url = "training"
 weight = 4
 
 # [[Languages.en.menu.main]]
