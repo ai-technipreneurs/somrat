@@ -1,5 +1,5 @@
 ---
-title : "We are the ai.technipreneurs"
+title : "AI based services"
 # full screen navigation
 first_name : "Techni"
 last_name : "Preneurs"
