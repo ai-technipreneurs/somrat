@@ -1,6 +1,6 @@
 ---
 title : "TRAINING"
-service_list:
+training_list:
 # service item loop
 - name : "Premiers pas en IA, Saison 0"
   image : "images/icons/web-development.png"
