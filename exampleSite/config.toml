@@ -1,8 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://adoring-minsky-3850f9.netlify.app/h"
 title = "Technipreneurs.AI"
-theme = "Mr Robot"
-color_theme = "mr_robot"
+theme = "somrat"
 # post pagination
 paginate = "6"
 # post excerpt
