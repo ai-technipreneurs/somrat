@@ -1,6 +1,6 @@
 
 ---
-title : "TESTIMONIALS"
+title : "TRAININGS"
 training_list:
 # training item loop
 - name : "Premiers pas en IA, Saison 0"
